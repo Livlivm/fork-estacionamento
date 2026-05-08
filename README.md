@@ -26,21 +26,6 @@ Com foco em:
 
 ---
 
-##  Prints do Sistema
-
->  Adicione as imagens na pasta `assets/`.
-
-###  Tela Inicial
-![Tela Inicial](./assets/home.png)
-
-###  Cadastro de Veículos
-![Veículos](./assets/veiculos.png)
-
-### Controle de Estadias
-![Estadias](./assets/estadias.png)
-
----
-
 ##  Tecnologias Utilizadas
 
 ### Front-End
