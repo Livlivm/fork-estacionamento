@@ -131,8 +131,4 @@ npm run dev
 Projeto desenvolvido por:
 -Livia Morais Pereira 
 
----
 
-##  Licença
-
-Projeto desenvolvido para fins educacionais.
